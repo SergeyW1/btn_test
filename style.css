@@ -1,0 +1,9 @@
+.active {
+	opacity: 1;
+	visibility: visible;
+}
+
+.no-active {
+	opacity: 0;
+	visibility: hidden;
+}
